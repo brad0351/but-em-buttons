@@ -39,6 +39,7 @@ a, .icon {
 
 .btn-ghost:active {
   padding-bottom: .75em;
+  top: 1em;
 }
 
 .btn-ghost .icon {
